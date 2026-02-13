@@ -1,4 +1,4 @@
-# 🩺 Skin Cancer Detection AI
+# Skin Cancer Detection AI
 
 A deep learning model for automated classification of skin lesions using dermatoscopic images. Trained on 10,000+ medical images across 7 diagnostic categories.
 
