@@ -141,7 +141,15 @@ vasc    1.54%
 
 Commit message: `Add usage instructions`
 
+## Model Weights
 
+Trained model weights (`ham10000_mobilenetv2.pth`) are not included in this repository due to file size (13MB).
+
+To obtain the trained model:
+- Train from scratch using `train.py` (recommended for learning)
+- Contact for pre-trained weights: Available upon request
+
+**Note:** Using pre-trained weights requires the same preprocessing pipeline as training (224×224 resize, ImageNet normalization).
 
 ## Tech stack
 
